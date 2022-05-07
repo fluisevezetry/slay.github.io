@@ -99,7 +99,7 @@ img {
     font-size: 40px;
     user-select: none;
     letter-spacing: 35px;
-    text-shadow: 0 0 20px #FF0000;
+    text-shadow: 0 0 20px #ffffff;
 }
 
 .content-links {
@@ -114,7 +114,7 @@ img {
     transition: .3s;
     display: flex;
     margin: 0 20px 0 0;
-    text-shadow: 0 0 20px #FF0000;
+    text-shadow: 0 0 20px #ffffff;
     user-select: none;
 }
 .content-links a:last-child {margin: 0;}
@@ -128,7 +128,7 @@ img {
     justify-self: center;
     align-self: center;
 }
-.content-links a:hover {text-shadow: 0 0 20px #FF0000;}
+.content-links a:hover {text-shadow: 0 0 20px #ffffff;}
 
 @media (min-aspect-ratio: 16/9) {
     .main_container_video iframe {
